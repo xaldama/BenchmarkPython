@@ -15,4 +15,3 @@ Running Benchmark Itself:
 
 ACKNOWLEDGEMENTS:
 The OWASP Benchmark project would like to thank the contributions of AppSecAI (https://www.appsecai.io) and their team members Theo Cartsonis and Jessica Salawu for doing the bulk of the development work to produce this first release of the Benchmark for Python test suite.
-
